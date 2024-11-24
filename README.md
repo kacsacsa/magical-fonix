@@ -1,3 +1,3 @@
 # magical-fonix
-Welcome to th project
-Please don't be roude
+Welcome to the project
+Please don't be rude
